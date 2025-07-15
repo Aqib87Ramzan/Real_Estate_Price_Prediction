@@ -5,7 +5,8 @@
 - [📌 Overview](#-overview)  
 - [🚀 Getting Started](#-getting-started)  
   - [🔧 Prerequisites](#-prerequisites)  
-  - [🛠️ Installation](#️-installation)  
+  - [🛠️ Installation](#️-installation)
+- [Usage](#-usage) 
 
 ## 📌 Overview
 
@@ -45,6 +46,6 @@ cd Real_Estate_Price_Prediction
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-**Usage:**
+## Usage
 Run the project with:
 python app.py
